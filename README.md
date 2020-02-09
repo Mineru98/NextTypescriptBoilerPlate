@@ -1,1 +1,1 @@
-# NuxtTypescriptBoilerPlate
+# NextTypescriptBoilerPlate
